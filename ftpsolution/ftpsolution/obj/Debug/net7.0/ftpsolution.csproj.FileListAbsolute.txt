@@ -1,0 +1,15 @@
+/Users/rs/Projects/ftpsolution/ftpsolution/bin/Debug/net7.0/ftpsolution
+/Users/rs/Projects/ftpsolution/ftpsolution/bin/Debug/net7.0/ftpsolution.deps.json
+/Users/rs/Projects/ftpsolution/ftpsolution/bin/Debug/net7.0/ftpsolution.runtimeconfig.json
+/Users/rs/Projects/ftpsolution/ftpsolution/bin/Debug/net7.0/ftpsolution.dll
+/Users/rs/Projects/ftpsolution/ftpsolution/bin/Debug/net7.0/ftpsolution.pdb
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.csproj.AssemblyReference.cache
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.AssemblyInfoInputs.cache
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.AssemblyInfo.cs
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.csproj.CoreCompileInputs.cache
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.dll
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/refint/ftpsolution.dll
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.pdb
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ftpsolution.genruntimeconfig.cache
+/Users/rs/Projects/ftpsolution/ftpsolution/obj/Debug/net7.0/ref/ftpsolution.dll
